@@ -1,2 +1,2 @@
 # hello-world
-ahoj
+ahoj dnes je utorok
